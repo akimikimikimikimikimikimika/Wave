@@ -31,7 +31,7 @@ Waveは,波動を触って視覚的に体感するためのツールです。
 ### 開く
 - [オンライン版](https://akimikimikimikimikimikimika.github.io/Wave/Wave.html "Waveオンライン版")
 - [オフライン版](https://akimikimikimikimikimikimika.github.io/Wave/offline.html "Waveオフライン版")
-- [ソースコード (GitHub)](https://github.com/akimikimikimikimikimikimika/Wave/tree/master "ソースコード")
+- [ソースコード (GitHub)](https://github.com/akimikimikimikimikimikimika/Wave "ソースコード")
 
 オンライン版では,全てのコンテンツを組み込み,常に最新の状態で利用できます。
 オフライン版では,オンライン版と同じ体験をオフラインでもできるようにします。URLのdataスキームに全てのソースコードを埋め込んでいるので,一部コンテンツに制限があります。
